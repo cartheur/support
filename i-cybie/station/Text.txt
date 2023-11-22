@@ -1,0 +1,1 @@
+A cartridge personality that, when installed, allows the iCybie to use its IR sensors to find the walk-up charging station.
